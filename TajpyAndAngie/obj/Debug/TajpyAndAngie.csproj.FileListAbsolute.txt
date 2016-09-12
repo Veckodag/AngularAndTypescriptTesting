@@ -1,0 +1,6 @@
+C:\Users\fresan\OneDrive\CodeProjectAngularTypescript\TajpyAndAngie\bin\TajpyAndAngie.dll
+C:\Users\fresan\OneDrive\CodeProjectAngularTypescript\TajpyAndAngie\bin\TajpyAndAngie.pdb
+C:\Users\fresan\OneDrive\CodeProjectAngularTypescript\TajpyAndAngie\obj\Debug\TajpyAndAngie.csprojResolveAssemblyReference.cache
+C:\Users\fresan\OneDrive\CodeProjectAngularTypescript\TajpyAndAngie\obj\Debug\TajpyAndAngie.dll
+C:\Users\fresan\OneDrive\CodeProjectAngularTypescript\TajpyAndAngie\obj\Debug\TajpyAndAngie.pdb
+C:\Users\fresan\OneDrive\CodeProjectAngularTypescript\TajpyAndAngie\bin\TajpyAndAngie.dll.config

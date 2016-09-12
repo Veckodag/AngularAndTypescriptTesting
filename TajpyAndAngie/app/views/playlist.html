@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Playlist view</title>
+	<meta charset="utf-8" />
+</head>
+<body>
+    <div class="jumbotron">
+        <ul class="list-group">
+            <li ng-show="playList.favorites" class="list-group-item" ng-repeat="t in playList.favorites">
+                {{t.title}}
+            </li>
+        </ul>
+        <button class="btn btn-block" ng-click="playList.getFavorites()">Get Favorites Tracks</button>
+    </div>
+</body>
+</html>
